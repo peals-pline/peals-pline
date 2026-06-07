@@ -1,3 +1,7 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&height=120&color=0D1117&text=UX/UI%20Design%20%E2%80%A2%20Open%20Source%20%E2%80%A2%20Digital%20Products&fontColor=F0F6FC&fontSize=28&animation=fadeIn&section=header">
+  <img alt="UX/UI Design • Open Source • Digital Products" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=ffffff&text=UX/UI%20Design%20%E2%80%A2%20Open%20Source%20%E2%80%A2%20Digital%20Products&fontColor=24292F&fontSize=28&animation=fadeIn&section=header">
+</picture>
 # Hi, I'm Denis Dyakov
 
 I'm a UX/UI Designer creating thoughtful digital products, interface concepts, and open-source experiments.
