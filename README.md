@@ -1,37 +1,39 @@
 # Hi, I'm Denis Dyakov
 
-I'm a UX/UI Designer creating thoughtful digital products and open-source projects.
+I'm a UX/UI Designer creating thoughtful digital products, interface concepts, and open-source experiments.
 
 I care about clean interfaces, clear user flows, visual systems, and products that feel simple even when the idea behind them is complex.
 
 ## What I do
 
 - UX/UI design for web and digital products
-- Wireframes, user flows, prototypes, and interface concepts
-- Visual design systems and product interfaces
-- Open-source experiments and creative web projects
-- Frontend collaboration with developers and AI-assisted product building
+- Wireframes, user flows, prototypes, and product concepts
+- Visual design systems and interface guidelines
+- Creative web experiments
+- Open-source product ideas and design-driven tools
 
 ## Current focus
 
-- Building and publishing open-source projects
-- Exploring UX patterns, interface systems, and product design
-- Creating small digital products and visual experiments
-- Sharing my process, ideas, and projects through GitHub
+- Building my public GitHub presence
+- Creating open-source projects around design, interfaces, and digital products
+- Exploring UX patterns, visual systems, and AI-assisted product building
+- Sharing experiments, notes, and project progress over time
 
-## Featured project
+## Visual experiment
 
-### AETHER
+AETHER is a small interactive web experience focused on mood, motion, and atmosphere.
 
-An interactive visual web experience built around atmosphere, motion, and a quiet narrative mood.
+[View AETHER](https://aether-site-red.vercel.app/)
 
-[View live project](https://aether-site-red.vercel.app/)
+## What to expect here
 
-## Open-source work
+This GitHub profile will grow into a public space for:
 
-I use GitHub as a public space for my projects, experiments, and design-driven product ideas.
-
-More repositories and case-study style writeups are coming soon.
+- open-source projects
+- UX/UI experiments
+- interface ideas
+- design systems
+- product notes and case-study style writeups
 
 ## Connect
 
