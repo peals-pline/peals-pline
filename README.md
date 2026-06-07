@@ -18,6 +18,13 @@ I care about clean interfaces, clear user flows, visual systems, and products th
 - Creative web experiments
 - Open-source product ideas and design-driven tools
 
+## Design principles
+
+- Clarity before decoration
+- Interfaces should feel calm, useful, and understandable
+- Good UX starts with structure, not visuals
+- Visual systems should help products scale
+
 ## Current focus
 
 - Building my public GitHub presence
